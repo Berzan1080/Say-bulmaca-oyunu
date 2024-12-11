@@ -1,3 +1,8 @@
+/**Sayı Tahmin Oyunu
+Açıklama:
+Bilgisayar rastgele bir sayı seçer (örneğin, 1 ile 100 arasında- Buradaki sınırların ne olacağı, sınırların kullanıcıdan alınıp alınmayacağı vb detaylar programlama kabiliyetinize veya sizin kurgunuza bağlı olarak değişiklik gösterebilir). Kullanıcı sayıyı tahmin etmeye çalışır. Her tahmin sonrası program, tahminin “daha büyük” veya “daha küçük” olduğunu söyler.
+Kullanıcı doğru tahmini yapana kadar devam eder ve sonunda kaç denemede bildiğini gösterir.
+**/
 import java.util.Scanner;
 import java.util.Random;
 
